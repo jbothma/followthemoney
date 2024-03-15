@@ -1,4 +1,4 @@
-# Follow the Money
+# Follow the Moolah
 
 [![ftm-build](https://github.com/alephdata/followthemoney/actions/workflows/build.yml/badge.svg)](https://github.com/alephdata/followthemoney/actions/workflows/build.yml)
 
