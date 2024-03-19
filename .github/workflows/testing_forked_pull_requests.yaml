@@ -4,7 +4,7 @@ name: TESTING_FORKED_PULL_REQUESTS
 
 # Controls when the workflow will run
 on:
-  pull_request:
+  pull_request: {}
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
